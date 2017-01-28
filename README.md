@@ -1,6 +1,14 @@
 #Recursive functions ![Travis-ci](https://travis-ci.org/rbrtsmith/javascript-recursive-functions.svg?branch=master)
 
-A personal learning exercise for cementing my understanding of recursion in JavaScript.
+I created these functions along with their relevant unit tests to help cement my understanding of recursion in JavaScript
+
+* [Factorial](https://github.com/rbrtsmith/javascript-recursive-functions/tree/master/functions/factorial)
+* [Fibonacci](https://github.com/rbrtsmith/javascript-recursive-functions/tree/master/functions/fibonacci)
+* [Filter](https://github.com/rbrtsmith/javascript-recursive-functions/tree/master/functions/filter)
+* [map](https://github.com/rbrtsmith/javascript-recursive-functions/tree/master/functions/map)
+* [Fizzbuzz](https://github.com/rbrtsmith/javascript-recursive-functions/tree/master/functions/fizzbuzz)
+* [Reverse Array](https://github.com/rbrtsmith/javascript-recursive-functions/tree/master/functions/reverseArray)
+* [Reverse String](https://github.com/rbrtsmith/javascript-recursive-functions/tree/master/functions/reverseString)
 
 Uses [Jest](https://facebook.github.io/jest/) for unit tests.
 
