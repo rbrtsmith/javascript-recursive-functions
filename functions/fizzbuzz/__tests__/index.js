@@ -2,8 +2,7 @@ import fizzBuzz from '../'
 
 test('FizzBuzz', () => {
   const expected =
-`0
-1
+`1
 2
 fizz
 4
