@@ -10,22 +10,27 @@ Uses [Jest](https://facebook.github.io/jest/) for unit tests
   yarn
   ```
 * Linting
+
   ```
   yarn lint
   ```
 * Unit tests
+
   ```
   yarn unit
   ```
 * Unit tests with coverage
+
   ```
   yarn unit:coverage
   ```
 * Unit tests in watch mode
+
   ```
   yarn unit:watch
   ```
 * Linting + unit tests
+
   ```
   yarn test
   ```
