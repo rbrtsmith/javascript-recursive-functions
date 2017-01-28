@@ -25,5 +25,8 @@
     "unit:coverage": "jest --coverage",
     "unit:watch": "jest --watch",
     "test": "npm run lint && npm run unit"
+  },
+  "dependencies": {
+    "deep-freeze": "^0.0.1"
   }
 }
