@@ -1,4 +1,4 @@
-#Recursive functions ![Travis-ci](https://travis-ci.org/rbrtsmith/javascript-recursive-functionssvg?branch=master)
+#Recursive functions ![Travis-ci](https://travis-ci.org/rbrtsmith/javascript-recursive-functions.svg?branch=master)
 
 A personal learning exercise for cementing my understanding of recursion in JavaScript.
 
