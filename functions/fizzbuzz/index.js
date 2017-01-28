@@ -1,12 +1,13 @@
 function fizzBuzz(num) {
+  let str = ''
+
   if (!Number.isInteger(num)) {
     return 'input must be a whole number'
   }
+
   if (!num) {
     return `${num}\n`
   }
-
-  let str = ''
 
   if (!(num % 3)) {
     str += 'fizz'
@@ -16,9 +17,7 @@ function fizzBuzz(num) {
     str += 'buzz'
   }
 
-  str = str ? ` - ${str}` : str
-
-  return fizzBuzz(num -1) + `${num}${str}\n`
+  return fizzBuzz(num -1) + (str ? str : num)
 }
 
 export default fizzBuzz
