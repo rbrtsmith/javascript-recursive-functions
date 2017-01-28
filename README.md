@@ -5,26 +5,26 @@ A personal learning exercise for cementing my understanding of recursion in Java
 Uses [Jest](https://facebook.github.io/jest/) for unit tests
 
 * Pull down dependencies
-```
-yarn
-```
+  ```
+  yarn
+  ```
 * Linting
-```
-yarn lint
-```
+  ```
+  yarn lint
+  ```
 * Unit tests
-```
-yarn unit
-```
+  ```
+  yarn unit
+  ```
 * Unit tests with coverage
-```
-yarn unit:coverage
-```
+  ```
+  yarn unit:coverage
+  ```
 * Unit tests in watch mode
-```
-yarn unit:watch
-```
+  ```
+  yarn unit:watch
+  ```
 * Linting + unit tests
-```
-yarn test
-```
+  ```
+  yarn test
+  ```
