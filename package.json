@@ -8,12 +8,22 @@
   "devDependencies": {
     "babel-cli": "^6.22.2",
     "babel-core": "^6.22.1",
+    "babel-eslint": "^7.1.1",
     "babel-jest": "^18.0.0",
     "babel-polyfill": "^6.22.0",
     "babel-preset-es2015": "^6.22.0",
+    "eslint": "^3.14.1",
+    "eslint-config-airbnb": "^14.0.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^3.0.2",
+    "eslint-plugin-react": "^6.9.0",
     "jest": "^18.1.0"
   },
   "scripts": {
-    "test": "jest"
+    "lint": "eslint functions/",
+    "unit": "jest",
+    "unit:coverage": "jest --coverage",
+    "unit:watch": "jest --watch",
+    "test": "npm run lint && npm run unit"
   }
 }

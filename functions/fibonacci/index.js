@@ -5,7 +5,7 @@ function fibonacci(num) {
 
   return num <= 2
     ? 1
-    : fibonacci(num - 1) + fibonacci(num -2)
+    : fibonacci(num - 1) + fibonacci(num - 2)
 }
 
 export default fibonacci

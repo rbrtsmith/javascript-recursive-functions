@@ -17,7 +17,7 @@ function fizzBuzz(num) {
     str += 'buzz'
   }
 
-  return fizzBuzz(num - 1) + (str ? str : num) + '\n'
+  return `${fizzBuzz(num - 1)}${(str || num)}\n`
 }
 
 export default fizzBuzz
