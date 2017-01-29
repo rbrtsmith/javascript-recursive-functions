@@ -9,6 +9,7 @@ I created these functions along with their relevant unit tests to help cement my
 * [Fizzbuzz](https://github.com/rbrtsmith/javascript-recursive-functions/tree/master/functions/fizzbuzz)
 * [Reverse Array](https://github.com/rbrtsmith/javascript-recursive-functions/tree/master/functions/reverseArray)
 * [Reverse String](https://github.com/rbrtsmith/javascript-recursive-functions/tree/master/functions/reverseString)
+* [Merge Sort](https://github.com/rbrtsmith/javascript-recursive-functions/tree/master/functions/mergeSort)
 
 Uses [Jest](https://facebook.github.io/jest/) for unit tests.
 
