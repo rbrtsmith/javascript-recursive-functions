@@ -7,6 +7,6 @@ number after the initial two are the sum of the preceding ones:
 ```
 
 The recursive function here takes a single argument (integer) and returns the corresponding fibonacci number
-```
+```javascript
 fibonacci(10) // 55
 ```
