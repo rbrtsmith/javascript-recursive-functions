@@ -2,7 +2,7 @@
 
 I created these functions along with their relevant unit tests to help cement my understanding of recursion in JavaScript.  They are built with simplicity in mind.  If I were looking to improve the performance of these I would look into techniques like Memoization which could in some cases drastically reduce the quantity of function calls for a given algorithm.
 
-It's also worth noting that some of these are better executed iteratively, however none of these are ever intended to be used in production code.
+It's also worth noting that some of problems are better solved iteratively, however none of these are ever intended to be used in production code and the purpose here was to see how they can be solved via recursion.
 
 * [Factorial](https://github.com/rbrtsmith/javascript-recursive-functions/tree/master/functions/factorial)
 * [Fibonacci](https://github.com/rbrtsmith/javascript-recursive-functions/tree/master/functions/fibonacci)
