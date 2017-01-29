@@ -14,6 +14,7 @@ It's also worth noting that some of problems are better solved iteratively, howe
 * [Reverse Array](https://github.com/rbrtsmith/javascript-recursive-functions/tree/master/functions/reverseArray)
 * [Reverse String](https://github.com/rbrtsmith/javascript-recursive-functions/tree/master/functions/reverseString)
 * [Merge Sort](https://github.com/rbrtsmith/javascript-recursive-functions/tree/master/functions/mergeSort)
+* [Quick Sort](https://github.com/rbrtsmith/javascript-recursive-functions/tree/master/functions/quickSort)
 
 Uses [Jest](https://facebook.github.io/jest/) for unit tests.
 
