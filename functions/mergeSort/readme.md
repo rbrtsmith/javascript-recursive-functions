@@ -1,4 +1,4 @@
-#mergeSort
+#Merge Sort
 
 A recursive divide and conquer algorithm that is super efficient.
 The function takes a single argument (array) and sorts it alphabetically
