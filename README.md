@@ -5,7 +5,7 @@ I created these functions along with their relevant unit tests to help cement my
 * [Factorial](https://github.com/rbrtsmith/javascript-recursive-functions/tree/master/functions/factorial)
 * [Fibonacci](https://github.com/rbrtsmith/javascript-recursive-functions/tree/master/functions/fibonacci)
 * [Filter](https://github.com/rbrtsmith/javascript-recursive-functions/tree/master/functions/filter)
-* [map](https://github.com/rbrtsmith/javascript-recursive-functions/tree/master/functions/map)
+* [Map](https://github.com/rbrtsmith/javascript-recursive-functions/tree/master/functions/map)
 * [Fizzbuzz](https://github.com/rbrtsmith/javascript-recursive-functions/tree/master/functions/fizzbuzz)
 * [Reverse Array](https://github.com/rbrtsmith/javascript-recursive-functions/tree/master/functions/reverseArray)
 * [Reverse String](https://github.com/rbrtsmith/javascript-recursive-functions/tree/master/functions/reverseString)
